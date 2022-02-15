@@ -20,24 +20,7 @@ class BottomNavBarCurvedFb1 extends StatefulWidget {
 }
 
 class _BottomNavBarCurvedFb1State extends State<BottomNavBarCurvedFb1> {
-  //- - - - - - - - - instructions - - - - - - - - - - - - - - - - - -
-  // WARNING! MUST ADD extendBody: true; TO CONTAINING SCAFFOLD
-  //
-  // Instructions:
-  //
-  // add this widget to the bottomNavigationBar property of a Scaffold, along with
-  // setting the extendBody parameter to true i.e:
-  //
-  // Scaffold(
-  //  extendBody: true,
-  //  bottomNavigationBar: BottomNavBarCurvedFb1()
-  // )
-  //
-  // Properties such as color and height can be set by changing the properties at the top of the build method
-  //
-  // For help implementing this in a real app, watch https://www.youtube.com/watch?v=C0_3w0kd0nc. The style is different, but connecting it to navigation is the same.
-  //
-  //- - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - -
+ 
 
   @override
   Widget build(BuildContext context) {
